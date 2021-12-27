@@ -1,0 +1,14 @@
+{
+  "name": "node_example",
+  "version": "1.0.0",
+  "description": "test page",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log('hello')"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
